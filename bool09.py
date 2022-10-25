@@ -5,5 +5,8 @@ def main(a):
     Returns:
         bool
     """
-    # Write your code here
-    return a>=0
+    if a>0:
+        b = True
+    else:
+        b = False
+    return b 
