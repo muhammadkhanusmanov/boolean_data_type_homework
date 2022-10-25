@@ -5,7 +5,7 @@ def main(a):
     Returns:
         bool
     """
-    if a>0:
+    if a>=0:
         b = True
     else:
         b = False
